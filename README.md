@@ -5,5 +5,5 @@
 
 #### Where to find me
 
-[Instagram](https://www.instagram.com/fozzattilucas/)
-[Phone number](2612127148)
+- [Instagram](https://www.instagram.com/fozzattilucas/)
+- [Phone number](2612127148)
