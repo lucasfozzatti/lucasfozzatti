@@ -2,6 +2,7 @@
 
 <!--
 **lucasfozzatti/lucasfozzatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<img src="/200.gif" style="margin: -155px -216px -312px -140px;" />
 
 ### Where to find me
 
