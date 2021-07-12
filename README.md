@@ -1,8 +1,10 @@
+<img src="/200 (1).gif" width=700px height= 50px />
+
 ### Hi there my name is Lucas 👋
 
 <!--
 **lucasfozzatti/lucasfozzatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="/200.gif" style="margin: -155px -216px -312px -140px;" />
+
 
 ### Where to find me
 
