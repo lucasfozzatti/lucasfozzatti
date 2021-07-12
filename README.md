@@ -9,7 +9,7 @@
 ### Where to find me
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:fozzatti98@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+542612127148)</br>
 [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/fozzattilucas/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-fozzatti-4b029a202/)</br>
