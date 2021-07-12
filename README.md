@@ -1,4 +1,4 @@
-<img src="/200 (1).gif" width=700px height= 50px />
+
 
 ### Hi there my name is Lucas 👋
 
