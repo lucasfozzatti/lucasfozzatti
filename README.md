@@ -20,5 +20,7 @@
 ![Django](https://img.shields.io/badge/-Django-008000?logo=django&logoColor=white&logoWidth=30&logoHeigth=40&style=for-the-badge)</br>
 ![Js](https://img.shields.io/badge/-JavaScript-ffd200?logo=javascript&logoColor=white&logoWidth=30&logoHeigth=40&style=for-the-badge)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30&logoHeigth=40&style=for-the-badge)</br>
+![Node](https://img.shields.io/badge/-NodeJs-3E7B29?logo=node&logoColor=white&logoWidth=30&logoHeigth=40&style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/-ExpressJs-gray?logo=express&logoColor=white&logoWidth=30&logoHeigth=40&style=for-the-badge)
 
   
